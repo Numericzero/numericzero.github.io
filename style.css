@@ -22,8 +22,11 @@ nav ul {
     display: block;
     font-family: serif, 'Times New Roman', Times;
     font-size: 16px;
-    padding: 10.5px 20px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
     text-decoration: none;
+    width: 88.2167px;
 }
 
 .nav-button:hover {
